@@ -1,20 +1,19 @@
 ### 你好！欢迎打开我的主页 | Hello! welcome to open my homepage 👋
-#### 特别说明：
+### ⚡ &nbsp;特别说明：
  你能找到我，说明我们是志同道合的。希望我公开的项目可以帮助到你！\
  但是有一点很抱歉，Github上是我Gitee的镜像仓库，但是我会尽量保持同步更新的，并且会注明那些是镜像，那些不是，请认准‘[镜像]’标识。\
  [我的gitee地址](https://gitee.com/yqbao)
+ 
 ### 👨🏻‍💻 &nbsp;关于我 | About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 &nbsp;最近正在研究使用MicroPython控制硬件，我觉得这是一件很酷的事。\
+🌱 &nbsp;我目前正在学习更多Python相关内容，不知道为什么，我非常热衷于使用Python。\
+💬 &nbsp;我目前的职业是一名测试，但是却更热衷于写代码，哈哈哈哈，很奇怪。\
+📫 &nbsp;你可以通过Foxmail或者Gmaill联系我: yqbaowo@Foxmail.com,yqbaowo@Gmail.com。\
+✍️ &nbsp;我最近才开通了博客，打算空闲时间使用博客记录生活，已遇到的问题即解决方法。[博客地址](https://www.cnblogs.com/yqbaowo/)\
+😄 &nbsp;有任何关于公开代码的问题，都可以联系我，我会尽快回复你，一起进步！
 
-<img alt="Night Coding" width='300px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width='260px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;技术栈 | Tech Stack
 
@@ -40,15 +39,11 @@
 </a>
 </p>
 
+<!--
 ### 🤝🏻 &nbsp;联系我 | Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.cnblogs.com/yqbaowo/"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.cnblogs.com/yqbaowo/"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
-
+-->
