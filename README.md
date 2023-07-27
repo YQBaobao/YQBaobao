@@ -13,17 +13,21 @@
 ✍️ &nbsp;我最近才开通了博客，打算空闲时间使用博客记录生活，已遇到的问题即解决方法。[博客地址](https://www.cnblogs.com/yqbaowo/)\
 😄 &nbsp;有任何关于公开代码的问题，都可以联系我，我会尽快回复你，一起进步！
 
-<img alt="Night Coding" width='260px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width='245px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;技术栈 | Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MicroPython](https://img.shields.io/badge/-MicroPython-05122A?style=flat&logo=micropython)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=1572B6)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
-![PyQt5](https://img.shields.io/badge/-PyQt5-05122A?style=flat&logo=Qt&logoColor=1572B6)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![PyQt5](https://img.shields.io/badge/-PyQt5-05122A?style=flat&logo=Qt&logoColor=1572B6)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=007ACC)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=007ACC)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
@@ -39,11 +43,12 @@
 </a>
 </p>
 
-<!--
+
 ### 🤝🏻 &nbsp;联系我 | Connect with Me
 
-<p align="center">
-<a href="https://www.cnblogs.com/yqbaowo/"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.cnblogs.com/yqbaowo/"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<p align="left">
+<a href="https://www.cnblogs.com/yqbaowo/"><img src="https://img.shields.io/badge/-cnblogs.com-3423A6?style=flat&logo=Google-Chrome"/></a>
+<a href="https://www.foxmail.com/"><img src="https://img.shields.io/badge/-foxmail.com-3423A6?style=flat&logo=Google-Chrome"/></a>
+<a href="https://mail.google.com/"><img src="https://img.shields.io/badge/-mail.google.com-3423A6?style=flat&logo=Google-Chrome"/></a>
 </p>
--->
+
