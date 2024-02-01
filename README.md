@@ -24,6 +24,7 @@
 ![MicroPython](https://img.shields.io/badge/-MicroPython-05122A?style=flat&logo=micropython)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
 ![PyQt5](https://img.shields.io/badge/-PyQt5-05122A?style=flat&logo=Qt)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
