@@ -2,6 +2,7 @@
 ### ⚡ &nbsp;欢迎 | welcome：
  你能找到我，说明我们是志同道合的。希望我公开的项目可以帮助到你！
  
+ 国内用户可访问 [Gitee主页](https://gitee.com/yqbao)
 <!--
  但是有一点很抱歉，Github上是我Gitee的镜像仓库，但是我会尽量保持同步更新的，并且会注明那些是镜像，那些不是，请认准‘[镜像]’标识。\
  [我的gitee地址](https://gitee.com/yqbao)
