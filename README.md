@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;关于我 | About Me
 
 🔭 &nbsp;最近正在研究使用MicroPython控制硬件，我觉得这是一件很酷的事。\
-🌱 &nbsp;我目前正在学习更多Python相关内容，不知道为什么，我非常热衷于使用Python。\
+🌱 &nbsp;我目前正在使用更多Python的相关内容，不知道为什么，我非常热衷于使用Python。\
 💬 &nbsp;我目前的职业是一名测试，但是却更热衷于写代码，哈哈哈哈，很奇怪。\
 📫 &nbsp;你可以通过Foxmail或者Gmaill联系我: yqbaowo@foxmail.com,yqbaowo@gmail.com。\
 ✍️ &nbsp;我最近才开通了博客，打算空闲时间使用博客记录生活，已遇到的问题即解决方法。[博客地址](https://www.cnblogs.com/yqbaowo/)\
